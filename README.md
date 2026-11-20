@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Omar 👋</h1>
 
-<!--
-**OMAR-BERGO404/OMAR-BERGO404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Aspiring Software Engineer | AI & Automation</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Building my foundation in software engineering,
+  one project at a time.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+
+- 🌱 Currently learning **Python & C++**
+- 🤖 Interested in **AI Engineering & AI Agents**
+- ⚙️ Exploring **Automation & Software Systems**
+- 🛠️ Focused on building real-world projects
+- 🎯 My goal is to become an independent engineer
+  who can build, understand, and solve problems.
+
+---
+
+### Technologies I'm Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
+
+---
+
+### My Direction
+
+Software Engineering • AI • Automation • Robotics
+
+---
+
+<p align="center">
+  <i>Learning. Building. Improving.</i>
+</p>
